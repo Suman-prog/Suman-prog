@@ -1,6 +1,6 @@
 - 👋 Hi folks, I’m Suman Vangala
 - 👨🏻‍💻 I’m interested in developing Multi functional UI's using React Js and Redux.
-- 🌱 I’m currently learning Back End development with Node Js & AWS.
+- 🌱 I’m currently learning Back End Web Development with NodeJs & AWS.
 - 💞️ I’m looking to collaborate on creating Ecommerce Web Applications.
 - 📫 Can always reach out to me at vangalasuman1995@gmail.com
 
